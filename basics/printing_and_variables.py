@@ -12,3 +12,4 @@ print("My goal is to work in", goal)
 Age = age + 1
 print("Next year I will be", Age, "years old")
 
+#Python is a case sensitive language, it will take Age and age as 2 different varibles becuase it has different character cases
